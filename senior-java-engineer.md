@@ -1,7 +1,7 @@
 # Java SDK Developer
 
-The Rackspace Developer relations group is looking for a Java / polyglot Developer
-ready to help us build to help lead, grow and build our Developer Experience
+The Rackspace Developer relations group is looking for a Senior Java / polyglot
+Developer ready to help us build to help lead, grow and build our Developer Experience
 and solutions. The Rackspace Developer Experience team is dedicated to making
 the cloud platform end-to-end experience for developers, technologists, and
 all customers, the best experience it can be.
