@@ -23,10 +23,9 @@ especially on open-source software, is an absolute must-have skill.
 include relocation to one of Rackspace's US offices in Austin TX, San Antonio TX,
 San Francisco, CA or Blacksburg, VA**
 
-The ideal candidate will have
 
-#####  Ideal candidates should have experience with:
-* Java advanced techniques and frameworks, including:
+### Ideal candidates:
+* Experience with Java advanced techniques and frameworks, including:
     * AOP
     * Guice
     * Guava
@@ -42,7 +41,7 @@ The ideal candidate will have
 * Prior experience and a willingness to participate in open source projects.
 
 
-#### Required Skills
+#### Skills
 * Understanding of JVM
 * Understanding of REST
 * Understanding of JSON
