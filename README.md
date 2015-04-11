@@ -5,6 +5,9 @@ The Rackspace Developer Experience team is dedicated to making the cloud platfor
 end-to-end experience for developers, technologists, and all customers, the best
 experience it can be.
 
+Take a look at the repository for open jobs; they're in markdown, so you know
+we're ok people.
+
 We specialize in community outreach, documentation, client tools and SDKs.
 We are on the front lines, engaging with our developers and helping them build
 modern cloud applications, setting technical strategy for content, tools,
