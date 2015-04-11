@@ -8,11 +8,13 @@ We specialize in community outreach, documentation, client tools and SDKs. We ar
 
 The team operates on the bleeding edge - from containers, to emerging tools, techniques and other technologies this is a chance to make a strategic impact not just to one team and company - but for the wider developer community!
 
-If you believe in helping define, lead, and drive strategies focused on
-the technical end user, as well as leading and growing a team of senior software
-developers, then we want to talk to you!
+If you believe in helping define, lead, and drive strategies focused on the technical end user, as well as leading and growing a team of senior software developers, then we want to talk to you!
 
-### Ideal candidates: 
+**This position is available to remote (US) workers and can additionally
+include relocation to one of Rackspace's US offices in Austin TX, San Antonio TX,
+San Francisco, CA or Blacksburg, VA**
+
+### Ideal candidates:
 * Highly collaborative in nature and able to advocate for customer needs.
 * Have experience supporting and and leading the development of tools, solutions and strategies for technical customers.
 * Proven ability to lead, coach, mentor, and grow developers.
@@ -21,7 +23,7 @@ developers, then we want to talk to you!
 * Demonstrate empathy while problem solving.
 * Strong communication skills - exceeding expectations especially for remote workers.
 * Ability to delegate to peers or direct reports in a constructive manner.
- 
+
 ### Responsibilities Include:
 
 * Manage the entire feature/product life cycle from strategic planning to shipping.

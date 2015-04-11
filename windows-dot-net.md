@@ -19,12 +19,16 @@ not just to one team and company - but for the wider developer community!
 Working effectively as a remote employee in a collaborative environment,
 especially on open-source software, is an absolute must-have skill.
 
+**This position is available to remote (US) workers and can additionally
+include relocation to one of Rackspace's US offices in Austin TX, San Antonio TX,
+San Francisco, CA or Blacksburg, VA**
+
 ### Ideal candidates:
 
 * Experience architecting and building an application in the current Windows & .NET
 ecosystem. Candidates with experience deploying such an application to modern
 clouds are strongly preferred.
-* Bonus points for skills with one or more languages such as .NET, Java, PHP, Python, Ruby, Go Javascript. 
+* Bonus points for skills with one or more languages such as .NET, Java, PHP, Python, Ruby, Go Javascript.
 * Experience creating Visual Studio Add-ins
 * Exposure to OpenStack and the Rackspace Cloud is hugely advantageous or equivalent (AWS, Azure/Hyper-V)
 * Experience with configuration automation tools such as Ansible, Puppet and/or Chef or similar technologies
