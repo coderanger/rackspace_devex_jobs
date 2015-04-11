@@ -31,6 +31,7 @@ issue if there's a bug!
 
 ## What is "Developer Experience"?
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/-vZ_E1OO_PY" frameborder="0" allowfullscreen></iframe>
+Take a gander!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hRTngumVnqw" frameborder="0" allowfullscreen></iframe>
+* [Developer Experience: Marketing matters, by Jesse Noller](https://www.youtube.com/watch?v=-vZ_E1OO_PY)
+* [The Developer Experience, by Pamela Fox](https://www.youtube.com/watch?v=hRTngumVnqw)
