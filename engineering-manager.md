@@ -14,8 +14,8 @@ See our [Developer Portal](https://developer.rackspace.com) for more information
 on our tools, SDKs and other work.
 
 **This position is available to remote (US) workers and can additionally
-include relocation to one of Rackspace's US offices in Austin TX, San Antonio TX,
-San Francisco, CA or Blacksburg, VA**
+include relocation to one of Rackspace's US offices in Austin, TX; San Antonio, TX;
+San Francisco, CA; or Blacksburg, VA.**
 
 ### Ideal candidates:
 * Highly collaborative in nature and able to advocate for customer needs.
