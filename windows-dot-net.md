@@ -63,5 +63,5 @@ clouds are strongly preferred.
 * High energy level and creative problem-solving abilities, coupled with a desire to take on responsibility
 
 
-Please email your resume/github/linkedin (your choice!) to [mailto:jesse.noller@rackspace.com](Jesse Noller). No agencies
+Please email your resume/github/linkedin (your choice!) to [Jesse Noller](mailto:jesse.noller@rackspace.com). No agencies
 or recruiters, please.

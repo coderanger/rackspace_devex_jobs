@@ -64,4 +64,4 @@ about another programming language such as Swift, Go, Javascript?
 
 You can apply through the [Rackspace career portal](https://uscareers-rackspace.icims.com/jobs/12892/sr.-full-stack-developer-for-developer-experience/job), or reach out to me directly via email,
 
-Please email your resume/github/linkedin (your choice!) to [mailto:jesse.noller@rackspace.com](Jesse Noller) and [mailto:ken.perkins@rackspace.com](Ken Perkins). No agencies or recruiters, please.
+Please email your resume/github/linkedin (your choice!) to [Jesse Noller](mailto:jesse.noller@rackspace.com) and [Ken Perkins](mailto:ken.perkins@rackspace.com). No agencies or recruiters, please.
