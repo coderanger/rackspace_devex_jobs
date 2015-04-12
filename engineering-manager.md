@@ -36,5 +36,5 @@ San Francisco, CA or Blacksburg, VA**
 * Help create & track concrete, objective measurements to organization level goals & KPIs.
 
 
-Please email your resume/github/linkedin (your choice!) to [mailto:jesse.noller@rackspace.com](mailto:jesse.noller@rackspace.com). No agencies
-or recruiters, please. 
+Please email your resume/github/linkedin (your choice!) to [mailto:jesse.noller@rackspace.com](Jesse Noller). No agencies
+or recruiters, please.

@@ -1,6 +1,6 @@
 # .NET Developer
 
-The Rackspace Developer relations group is looking for a .NET /polyglot Developer
+The Rackspace Developer relations group is looking for a .NET / polyglot Developer
 ready to help us build to help lead, grow and build our Developer Experience
 and solutions. The Rackspace Developer Experience team is dedicated to making
 the cloud platform end-to-end experience for developers, technologists, and
@@ -63,5 +63,5 @@ clouds are strongly preferred.
 * High energy level and creative problem-solving abilities, coupled with a desire to take on responsibility
 
 
-Please email your resume/github/linkedin (your choice!) to [mailto:jesse.noller@rackspace.com](mailto:jesse.noller@rackspace.com). No agencies
+Please email your resume/github/linkedin (your choice!) to [mailto:jesse.noller@rackspace.com](Jesse Noller). No agencies
 or recruiters, please.
