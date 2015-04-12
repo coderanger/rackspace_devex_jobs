@@ -38,3 +38,6 @@ Take a gander!
 
 * [Developer Experience: Marketing matters, by Jesse Noller](https://www.youtube.com/watch?v=-vZ_E1OO_PY)
 * [The Developer Experience, by Pamela Fox](https://www.youtube.com/watch?v=hRTngumVnqw)
+
+
+![Imgur](http://i.imgur.com/lefPVus.gifv)
