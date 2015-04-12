@@ -1,4 +1,4 @@
-# Java SDK Developer
+# Java Developer
 
 The Rackspace Developer relations group is looking for a Senior Java / polyglot
 Developer ready to help us build to help lead, grow and build our Developer Experience
@@ -23,8 +23,18 @@ especially on open-source software, is an absolute must-have skill.
 include relocation to one of Rackspace's US offices in Austin TX, San Antonio TX,
 San Francisco, CA or Blacksburg, VA**
 
+### Other Cool Facts:
 
-### Ideal candidates:
+As part of this role you also get to (based on comfort level):
+
+* Participate in multiple open-source project/community.
+* Attend, speak at or sponsor industry / community meetups, conferences, etc.
+* Expand your skillset - want to learn a new tool like Terraform, Ansible? How about another programming language such as Swift, Go, Javascript?
+* Blog & write to teach new or interesting technologies.
+
+
+### Ideal candidates have:
+
 * Experience with Java advanced techniques and frameworks, including:
     * AOP
     * Guice
@@ -41,7 +51,8 @@ San Francisco, CA or Blacksburg, VA**
 * Prior experience and a willingness to participate in open source projects.
 
 
-#### Skills
+#### Skills required:
+
 * Understanding of JVM
 * Understanding of REST
 * Understanding of JSON
@@ -50,3 +61,6 @@ San Francisco, CA or Blacksburg, VA**
     * Java or equivalent (C#, C++)
     * Powershell, bash
 * High energy level and creative problem-solving abilities, coupled with a desire to take on responsibility
+
+Please email your resume/github/linkedin (your choice!) to [mailto:jesse.noller@rackspace.com](mailto:jesse.noller@rackspace.com). No agencies
+or recruiters, please. 

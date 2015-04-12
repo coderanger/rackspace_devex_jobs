@@ -1,4 +1,4 @@
-# .NET SDK Developer
+# .NET Developer
 
 The Rackspace Developer relations group is looking for a .NET /polyglot Developer
 ready to help us build to help lead, grow and build our Developer Experience
@@ -23,7 +23,16 @@ especially on open-source software, is an absolute must-have skill.
 include relocation to one of Rackspace's US offices in Austin TX, San Antonio TX,
 San Francisco, CA or Blacksburg, VA**
 
-### Ideal candidates:
+### Other Cool Facts:
+
+As part of this role you also get to (based on comfort level):
+
+* Participate in multiple open-source project/community.
+* Attend, speak at or sponsor industry / community meetups, conferences, etc.
+* Expand your skillset - want to learn a new tool like Terraform, Ansible? How about another programming language such as Swift, Go, Javascript?
+* Blog & write to teach new or interesting technologies.
+
+### Ideal candidates have:
 
 * Experience architecting and building an application in the current Windows & .NET
 ecosystem. Candidates with experience deploying such an application to modern
@@ -37,7 +46,7 @@ clouds are strongly preferred.
 * Understanding of RESTful APIs.
 * Prior experience and a willingness to participate in open source projects.
 
-#### Skills
+#### Skills required:
 * Understanding of .NET WCF
 * Understanding of C# advanced techniques, including:
     * Threading (Tasks, async, await)
@@ -52,3 +61,7 @@ clouds are strongly preferred.
     * Windows DSC framework
     * C# or equivalent (Java, C++, â€¦)
 * High energy level and creative problem-solving abilities, coupled with a desire to take on responsibility
+
+
+Please email your resume/github/linkedin (your choice!) to [mailto:jesse.noller@rackspace.com](mailto:jesse.noller@rackspace.com). No agencies
+or recruiters, please.

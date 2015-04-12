@@ -34,3 +34,7 @@ San Francisco, CA or Blacksburg, VA**
 * Supports customers who are developers coding against our APIs by leading a team of developers who maintain the tools & SDKs.
 * Provides tracking and accountability for team members to meet their goals which drive team goals.
 * Help create & track concrete, objective measurements to organization level goals & KPIs.
+
+
+Please email your resume/github/linkedin (your choice!) to [mailto:jesse.noller@rackspace.com](mailto:jesse.noller@rackspace.com). No agencies
+or recruiters, please. 
