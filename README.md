@@ -40,4 +40,4 @@ Take a gander!
 * [The Developer Experience, by Pamela Fox](https://www.youtube.com/watch?v=hRTngumVnqw)
 
 
-![pug](http://i.imgur.com/lefPVus.gif)
+[pug](http://i.imgur.com/lefPVus.gif)
