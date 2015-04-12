@@ -19,6 +19,9 @@ not just to one team and company - but for the wider developer community!
 Working effectively as a remote employee in a collaborative environment,
 especially on open-source software, is an absolute must-have skill.
 
+See our [Developer Portal](https://developer.rackspace.com) for more information
+on our tools, SDKs and other work.
+
 **This position is available to remote (US) workers and can additionally
 include relocation to one of Rackspace's US offices in Austin TX, San Antonio TX,
 San Francisco, CA or Blacksburg, VA**
@@ -49,9 +52,10 @@ As part of this role you also get to (based on comfort level):
 * An interest in expanding technical knowledge
 * Understanding of RESTful APIs.
 * Prior experience and a willingness to participate in open source projects.
+* An ability to write clear, concise and effective developer documentation.
 
 
-#### Skills required:
+### Skills required:
 
 * Understanding of JVM
 * Understanding of REST
@@ -61,6 +65,15 @@ As part of this role you also get to (based on comfort level):
     * Java or equivalent (C#, C++)
     * Powershell, bash
 * High energy level and creative problem-solving abilities, coupled with a desire to take on responsibility
+
+### Responsibilities
+
+* Manage and contribute to our open-source SDKs.
+* Participate in code reviews.
+* Provide technical support to developers who are having issues with our services.
+* Create working applications that leverage Rackspace's cloud platform.
+* Contribute back to the community by attending meetups, speaking at conferences, sharing your ideas in blog posts.
+* Collaborate both inside and outside our team at Rackspace to improve our product offering to developers.
 
 Please email your resume/github/linkedin (your choice!) to [Jesse Noller](mailto:jesse.noller@rackspace.com). No agencies
 or recruiters, please.

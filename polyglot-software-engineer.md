@@ -1,10 +1,13 @@
-# .NET Developer
+# Polyglot software Developer
 
-The Rackspace Developer relations group is looking for a .NET / polyglot Developer
+The Rackspace Developer relations group is looking for a Developer with skills in
+more than one programming language (such as PHP, Python, Ruby, Go Javascript)
 ready to help us build to help lead, grow and build our Developer Experience
-and solutions. The Rackspace Developer Experience team is dedicated to making
-the cloud platform end-to-end experience for developers, technologists, and
-all customers, the best experience it can be.
+and solutions.
+
+The Rackspace Developer Experience team is dedicated to making the cloud
+platform end-to-end experience for developers, technologists, and all
+customers, the best experience it can be.
 
 We specialize in community outreach, documentation, client tools and SDKs.
 We are on the front lines, engaging with our developers and helping them
@@ -12,12 +15,15 @@ build modern cloud applications, setting technical strategy for content,
 tools, ecosystems and more. Our team is here to not only ship one product,
 but to change the end-to-end experience from support, to content, tools and offerings.
 
-The team operates on the bleeding edge - from containers, to emerging tools, t
-echniques and other technologies this is a chance to make a strategic impact
+The team operates on the bleeding edge - from containers, to emerging tools,
+techniques and other technologies this is a chance to make a strategic impact
 not just to one team and company - but for the wider developer community!
 
-Working effectively as a remote employee in a collaborative environment,
-especially on open-source software, is an absolute must-have skill.
+You will be working in a distributed team, so strong communication skills
+and teamwork is a requirement. Remote workers are fully supported. We aren't
+fussy about particular technology experience - we'd rather pick somebody
+who can contribute interesting ideas, take bold technical leaps, is willing
+to learn, and shows determination and acumen.
 
 See our [Developer Portal](https://developer.rackspace.com) for more information
 on our tools, SDKs and other work.
@@ -37,11 +43,14 @@ As part of this role you also get to (based on comfort level):
 
 ### Ideal candidates have:
 
-* Experience architecting and building an application in the current Windows & .NET
-ecosystem. Candidates with experience deploying such an application to modern
-clouds are strongly preferred.
-* Bonus points for skills with one or more languages such as .NET, Java, PHP, Python, Ruby, Go Javascript.
-* Experience creating Visual Studio Add-ins
+* Experience with multiple programming languages such as PHP, Python, Go, Ruby, Java, .NET.
+* Understanding of RESTful APIs.
+* Prior experience and a willingness to participate in open source projects.
+* Independence and an ability to get things done without direct oversight (our team is almost fully remote).
+* Great communication skills, empathy and patience.
+* A commitment to shipping high quality code and delivering a consistent and excellent customer experience.
+* Experience with testing.
+* A comprehensive understanding of cloud infrastructure: compute, load balancing, auto scaling, micro-services, redundant storage, CDNs.
 * Exposure to OpenStack and the Rackspace Cloud is hugely advantageous or equivalent (AWS, Azure/Hyper-V)
 * Experience with configuration automation tools such as Ansible, Puppet and/or Chef or similar technologies
 * Ability to handle multiple tasks and prioritize work in order to maintain required productivity levels
@@ -49,22 +58,6 @@ clouds are strongly preferred.
 * Understanding of RESTful APIs.
 * Prior experience and a willingness to participate in open source projects.
 * An ability to write clear, concise and effective developer documentation.
-
-### Skills required:
-* Understanding of .NET WCF
-* Understanding of C# advanced techniques, including:
-    * Threading (Tasks, async, await)
-    * LAMBDA code
-    * LINQ
-* Understanding of JSON
-* Experience with Visual Studio 2013 or newer
-* Understanding of and love for testing.
-* Demonstrable proficiency in writing code in one or more of the following languages:
-    * Powershell
-    * .NET API
-    * Windows DSC framework
-    * C# or equivalent (Java, C++, â€¦)
-* High energy level and creative problem-solving abilities, coupled with a desire to take on responsibility
 
 ### Responsibilities
 
@@ -74,6 +67,3 @@ clouds are strongly preferred.
 * Create working applications that leverage Rackspace's cloud platform.
 * Contribute back to the community by attending meetups, speaking at conferences, sharing your ideas in blog posts.
 * Collaborate both inside and outside our team at Rackspace to improve our product offering to developers.
-
-Please email your resume/github/linkedin (your choice!) to [Jesse Noller](mailto:jesse.noller@rackspace.com). No agencies
-or recruiters, please.

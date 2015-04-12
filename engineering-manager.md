@@ -10,6 +10,9 @@ The team operates on the bleeding edge - from containers, to emerging tools, tec
 
 If you believe in helping define, lead, and drive strategies focused on the technical end user, as well as leading and growing a team of senior software developers, then we want to talk to you!
 
+See our [Developer Portal](https://developer.rackspace.com) for more information
+on our tools, SDKs and other work.
+
 **This position is available to remote (US) workers and can additionally
 include relocation to one of Rackspace's US offices in Austin TX, San Antonio TX,
 San Francisco, CA or Blacksburg, VA**

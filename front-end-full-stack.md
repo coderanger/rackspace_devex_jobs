@@ -25,6 +25,9 @@ not just to one team and company - but for the wider developer community!
 Working effectively as a remote employee in a collaborative environment,
 especially on open-source software, is an absolute must-have skill.
 
+See our [Developer Portal](https://developer.rackspace.com) for more information
+on our tools, SDKs and other work.
+
 **This position is available to remote (US) workers and can additionally
 include relocation to one of Rackspace's US offices in Austin TX, San Antonio TX,
 San Francisco, CA or Blacksburg, VA**
@@ -52,6 +55,7 @@ about another programming language such as Swift, Go, Javascript?
 * An interest in expanding technical knowledge
 * Understanding of RESTful APIs.
 * Prior experience and a willingness to participate in open source projects.
+* An ability to write clear, concise and effective developer documentation.
 
 #### Skills required:
 
